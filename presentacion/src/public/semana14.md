@@ -35,7 +35,7 @@ def yo_misma():
 
 Nos basamos en suponer que "mágicamente" el problema está resuelto
 
-Hay un "caso base": el problema sencillo que sabemos resolver
+Hay un **caso base**: el problema sencillo que sabemos resolver
 
 Pensad estos ejemplos:
 - Factorial de un número
@@ -46,6 +46,8 @@ Pensad estos ejemplos:
 
 # Ejercicios
 
-
-
----
+- Calcular la suma de todos los elementos en una lista de números enteros.
+- Calcular la potencia de un número.
+- Verificar si todos los elementos de una lista son iguales.
+- Invertir una cadena de caracteres.
+- Verificar si una cadena es un palíndromo.
